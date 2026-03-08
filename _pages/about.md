@@ -21,13 +21,13 @@ redirect_from:
 Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages^^
 
 ### 📰 News
-* [cite_start]**2026:** Our Workshop *"AI Modeling for Disappearing Knowledge (AIM4DK)"* has been accepted in IJCAI-ECAI[cite: 62].
-* **Feb 2026:** Successfully passed my Ph.D. Dissertation Proposal Defense!
-* [cite_start]**2026:** Our paper *"PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion"* has been featured in TMLR[cite: 62].
-* [cite_start]**2024:** Our paper, *"Pruning-based Data Selection and Network Fusion for Efficient Deep Learning"*  was accepted to Attributing Model Behavior at Scale Workshop at NeurIPS.
-* [cite_start]**2023:** Our paper, *"EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning"*  was accepted to NeurIPS.
-* [cite_start]**2023:** Our paper, *"Distribution Aware Active Learning via Gaussian Mixtures"*  was accepted to Pitfalls of limited data and computation for Trustworthy ML Workshop at ICLR.
-*  **Dec 2021:**  Successfully passed my Master’s Dissertation Defense!
+* **March 2026** -- Our Workshop, *"AI Modeling for Disappearing Knowledge (AIM4DK)"*, has been accepted in IJCAI-ECAI'26.
+* **Feb 2026** -- Successfully passed my Ph.D. Dissertation Proposal Defense!
+* **Feb 2026** -- Our paper, *"PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion"*, has been featured in TMLR'26.
+* **Oct 2024** -- Our paper, *"Pruning-based Data Selection and Network Fusion for Efficient Deep Learning"*, was accepted to Attributing Model Behavior at Scale Workshop at NeurIPS'24.
+* **Oct 2023** -- Our paper, *"EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning"*, was accepted to NeurIPS'23.
+* **Feb 2023:** -- Our paper, *"Distribution Aware Active Learning via Gaussian Mixtures"*, was accepted to Pitfalls of limited data and computation for Trustworthy ML Workshop at ICLR'23.
+* **Dec 2021** -- Successfully passed my Master’s Dissertation Defense!
 
 
 ## 👨🏻‍🔬 Professional Experience
