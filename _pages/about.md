@@ -30,13 +30,21 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 
 
 ### 📚 Publications
-- "**Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**"
+- **Humaira Kousar**, HI Bhatti*, J Moon,"**Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**". *Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024*
+[Pdf](https://arxiv.org/pdf/2501.01118)
 
-***Humaira Kousar**, HI Bhatti, J Moon*
+- **Humaira Kousar**, HI Bhatti*, J Moon,"**PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**". *Transactions on Machine Learning Research
+ (TMLR), 2026, (***Featured Certification***).*
+[Pdf]([https://openreview.net/forum?id=BvnxenZwqY](https://openreview.net/pdf?id=BvnxenZwqY))
 
-Neural Information Processing Systems (NeurIPS), 2024, Workshop on Attributing Model Behavior at Scale.
-[Pdf](https://arxiv.org/abs/2501.01118)
-[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:8EloYDOhdIUJ:scholar.google.com/&output=citation&scisdr=Cl_GurMSEIas9wQ7HaI:AFtJQiwAAAAAabg9BaKMA_2f5neEeO1Ma3S6tyk&scisig=AFtJQiwAAAAAabg9BffnkV3ksMmdPrHNpB_gLqQ&scisf=4&ct=citation&cd=-1&hl=en)
+- “**Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation**”.*(under review)*
+
+- Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon. “**Distribution Aware Active Learning via Gaussian Mixtures**”. *International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML,2023.*
+[Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
+
+- MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon. “**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning.**” *Advances in Neural Information Processing Systems(NeurIPS), 2024.*
+
+- **Humaira Kousar**, M Atif, H Ali, MH Kundi. "**WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
 
 ## 📚 Accademic Service
 * Reviewer -- ICLR, International Conference on Learning Representations, 2026
