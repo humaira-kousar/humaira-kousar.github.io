@@ -29,7 +29,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 * **Dec 2021** -- Successfully passed my Master’s Dissertation Defense!
 
 
-##Publications
+### 📚 Publications
 "**Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**"
 *Humaira Kousar, HI Bhatti, J Moon*
 Neural Information Processing Systems (NeurIPS), 2024, Workshop on Attributing Model Behavior at Scale.
