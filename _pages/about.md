@@ -35,7 +35,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 [Pdf](https://arxiv.org/pdf/2501.01118)
 
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion</u>". Transactions on Machine Learning Research
- (TMLR), 2026, (<span style="color: #28a745;">[**Featured Certification**</span>](https://jmlr.org/tmlr/papers/)).
+ (TMLR), 2026, (<span style="color: #28a745;">[**Featured Certification**>](https://jmlr.org/tmlr/papers/)</span).
 [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
 - “<u>Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation</u>”.*(under review)*
