@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/Humaira2.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities]<img src="/images/Humaira2.jpg" width="300" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
  
 I am a Final Year Ph.D. candidate in the School of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST), South Korea. 
 Advised by Prof. Jaekyun Moon , my research bridges Active Learning and Distributed Machine Learning.
