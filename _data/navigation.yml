@@ -7,8 +7,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     # url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m0X7B_IAAAAJ&citation_for_view=m0X7B_IAAAAJ:2osOgNQ5qMEC
     # url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m0X7B_IAAAAJ&citation_for_view=m0X7B_IAAAAJ:IjCSPb-OGe4C
     # url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m0X7B_IAAAAJ&citation_for_view=m0X7B_IAAAAJ:u5HHmVD_uO8C
