@@ -18,7 +18,7 @@ I am also interested in assisting others on their path in the world of Machine L
 
 Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages^^
 
-### 📰 News
+## 📰 News
 * **March 2026** -- Our Workshop, "AI Modeling for Disappearing Knowledge (AIM4DK)", has been accepted in IJCAI-ECAI'26.
 * **Feb 2026** -- Successfully passed my Ph.D. Dissertation Proposal Defense!
 * **Feb 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", has been featured in TMLR'26.
@@ -29,7 +29,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 * **Dec 2021** -- Successfully passed my Master’s Dissertation Defense!
 
 
-### 📚 Publications
+## 📚 Publications
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</u>".
     Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
 [Pdf](https://arxiv.org/pdf/2501.01118)
@@ -47,6 +47,15 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 [Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
 
 - **Humaira Kousar**, M Atif, H Ali, MH Kundi. "<u>WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)</u>". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
+
+## 📚 Patent
+**Device and Method for Distribution Aware Active Learning using Gaussian Mixture**. Younghyun Park, Jungwuk Park, Dong-jun Han, Wonjeong Choi, **Kousar Humaira** and Jaekyun Moon.
+Application Number: KR 10-2024-0035374, Application Date: Mar 13, 2024
+
+## 📚Research Projects
+**Active Learning Algorithms for Efficient Utilization of Unlabeled Defense Data**.
+Center for Applied Research in Artificial Intelligence (CARAI),
+*Funded by Agency for Defense Development (ADD); (2021 – Present)*
 
 ## 📚 Accademic Service
 * Reviewer -- ICLR, International Conference on Learning Representations, 2026
