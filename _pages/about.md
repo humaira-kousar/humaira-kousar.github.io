@@ -31,30 +31,20 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 
 ### 📚 Publications
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</u>".
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
+    Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
 [Pdf](https://arxiv.org/pdf/2501.01118)
-<details>
-  <summary><b>BibTeX</b></summary>
-  <pre><code>@inproceedings{kousar2024pruning,
-  title={Pruning-based Data Selection and Network Fusion for Efficient Deep Learning},
-  author={Kousar, Humaira and Bhatti, HI and Moon, J},
-  booktitle={Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale},
-  year={2024}
-}</code></pre>
-</details>
 
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion</u>". Transactions on Machine Learning Research
- (TMLR), 2026, (<span style="color: #28a745;">[***Featured Certification***](https://jmlr.org/tmlr/papers/)</span>).
+ (TMLR), 2026, (<span style="color: #28a745;">[**Featured Certification**</span>](https://jmlr.org/tmlr/papers/)).
 [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
 - “<u>Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation</u>”.*(under review)*
 
-- Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon. “<u>Distribution Aware Active Learning via Gaussian Mixtures</u>”. *International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML,2023.*
-[Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
-
 - MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon. “<u>EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning</u>.” *Advances in Neural Information Processing Systems(NeurIPS), 2024.*
 [Pdf](https://arxiv.org/pdf/2311.07485)
+
+- Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon. “<u>Distribution Aware Active Learning via Gaussian Mixtures</u>”. *International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML,2023.*
+[Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
 
 - **Humaira Kousar**, M Atif, H Ali, MH Kundi. "<u>WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)</u>". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
 
