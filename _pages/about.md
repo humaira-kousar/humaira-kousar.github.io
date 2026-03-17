@@ -16,7 +16,9 @@ I am a Final Year Ph.D. candidate in the School of Electrical Engineering at the
 Advised by Prof. Jaekyun Moon , my research bridges Active Learning and Distributed Machine Learning.
 I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
-Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
+Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. 
+
+When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
 
 ## 📰 News
 * **March 2026** -- Our Workshop, "AI Modeling for Disappearing Knowledge (AIM4DK)", has been accepted in IJCAI-ECAI'26.
