@@ -21,7 +21,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
 
 ## 📰 News
-* **March 2026** -- Our Workshop, "AI Modeling for Disappearing Knowledge (AIM4DK)", has been accepted in IJCAI-ECAI'26.
+* **March 2026** -- Our Workshop, ["AI Modeling for Disappearing Knowledge (AIM4DK)"](https://aim4dk.vercel.app/), has been accepted in IJCAI-ECAI'26.
 * **Feb 2026** -- Successfully passed my Ph.D. Dissertation Proposal Defense!
 * **Feb 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", has been featured in TMLR'26.
 * **Oct 2024** -- Our paper, "Pruning-based Data Selection and Network Fusion for Efficient Deep Learning", was accepted to Attributing Model Behavior at Scale Workshop at NeurIPS'24.
@@ -60,6 +60,7 @@ Center for Applied Research in Artificial Intelligence (CARAI),
 *Funded by Agency for Defense Development (ADD); (2021 – Present)*
 
 ## 📚 Accademic Service
+* Organizer -- IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
 * Reviewer -- ICLR, International Conference on Learning Representations, 2026
 * Reviewer -- AAAI, Conference on Artificial Intelligence, 2026
 * Reviewer -- WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
