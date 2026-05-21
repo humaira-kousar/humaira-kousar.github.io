@@ -12,7 +12,7 @@ redirect_from:
 
 <img src="/images/Humaira2.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
  
-I am a Final Year Ph.D. candidate in the [School of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), South Korea. 
+I am a Ph.D. candidate in [Moon Lab](https://moonlab.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), South Korea. 
 Advised by Prof. Jaekyun Moon , my research bridges Active Learning and Distributed Machine Learning.
 I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
