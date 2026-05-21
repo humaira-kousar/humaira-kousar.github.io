@@ -21,6 +21,8 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
 
 ## 📰 News
+* **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", accepted to be presented in ICML 2026. 
+* **May 2026** -- Two papers accepted to ICML workshop 2026. 
 * **March 2026** -- Our Workshop, ["AI Modeling for Disappearing Knowledge (AIM4DK)"](https://aim4dk.vercel.app/), has been accepted in IJCAI-ECAI'26.
 * **Feb 2026** -- Successfully passed my Ph.D. Dissertation Proposal Defense!
 * **Feb 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", has been featured in TMLR'26.
@@ -61,8 +63,11 @@ Center for Applied Research in Artificial Intelligence (CARAI),
 
 ## 📚 Accademic Service
 * Organizer -- IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
-* Reviewer -- ICLR, International Conference on Learning Representations, 2026
-* Reviewer -- AAAI, Conference on Artificial Intelligence, 2026
+* Reviewer -- AI4GOOD, International Conference on Learning Representations (ICML), 2026
+* Reviewer -- GlobalSouthML, International Conference on Learning Representations (ICML), 2026
+* Reviewer -- AdaptFM, International Conference on Learning Representations (ICML), 2026
+* Reviewer -- International Conference on Learning Representations (ICLR), 2026
+* Reviewer -- Conference on Artificial Intelligence (AAAI), 2026
 * Reviewer -- WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
 * Volunteer -- WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
 * Reviewer -- ATTRIB, Advances in Neural Information Processing Systems (NeurIPS), 2024
