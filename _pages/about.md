@@ -53,7 +53,7 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 - **Humaira Kousar**, M Atif, H Ali, MH Kundi. "<u>WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)</u>". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
 
 ## 📚 Patent
-**Device and Method for Distribution Aware Active Learning using Gaussian Mixture**. Younghyun Park, Jungwuk Park, Dong-jun Han, Wonjeong Choi, **Humaira Kousar** and Jaekyun Moon.
+**Device and Method for Distribution Aware Active Learning using Gaussian Mixture**.
 Application Number: KR 10-2024-0035374, Application Date: Mar 13, 2024
 
 ## 📚Research Projects
