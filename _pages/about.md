@@ -42,7 +42,7 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 - **PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**<br>
   **Humaira Kousar**, HI Bhatti, J Moon<br>
   [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
-  <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small">Bibtex</a>
+  <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small">Bibtex</a> <a href="https://jmlr.org/tmlr/papers/" class="btn btn--small" style="background-color: #ffc107; color: #000 !important;">Featured Certification (Spotlight)</a>
 
 - **Consistent Low-Rank Aggregation for Federated LoRA Fine-Tuning**<br>
   MM Rahimi, M Heidari, **Humaira Kousar**, D Seo, J Moon<br>
