@@ -34,23 +34,32 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 
 
 ## 📚 Publications {#publications}
-- **Humaira Kousar**, HI Bhatti, J Moon, "<i>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</i>".
-    Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
-[Pdf](https://arxiv.org/pdf/2501.01118)
+- **Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**<br>
+  **Humaira Kousar**, HI Bhatti, J Moon<br>
+  Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024<br>
+  [Pdf](https://arxiv.org/pdf/2501.01118)
 
-- **Humaira Kousar**, HI Bhatti, J Moon, "<i>PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion</i>". Transactions on Machine Learning Research
- (TMLR), 2026, (<span style="color: #28a745;">[**Featured Certification**](https://jmlr.org/tmlr/papers/)</span>).
-[Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
+- **PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**<br>
+  **Humaira Kousar**, HI Bhatti, J Moon<br>
+  Transactions on Machine Learning Research (TMLR), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
+  [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
-- “<i>Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation</i>”.*(under review)*
+- **Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation**<br>
+  *(under review)*
 
-- MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon. “<i>EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning</i>.” *Advances in Neural Information Processing Systems(NeurIPS), 2024.*
-[Pdf](https://arxiv.org/pdf/2311.07485)
+- **EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**<br>
+  MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon<br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2024<br>
+  [Pdf](https://arxiv.org/pdf/2311.07485)
 
-- Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon. “<i>Distribution Aware Active Learning via Gaussian Mixtures</i>”. *International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML,2023.*
-[Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
+- **Distribution Aware Active Learning via Gaussian Mixtures**<br>
+  Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon<br>
+  International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML, 2023<br>
+  [Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
 
-- **Humaira Kousar**, M Atif, H Ali, MH Kundi. "<i>WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)</i>". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
+- **WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**<br>
+  **Humaira Kousar**, M Atif, H Ali, MH Kundi<br>
+  2019 International Conference on Green and Human Information Technology (ICGHIT), IEEE, 2019
 
 ## 📚 Patent {#patents}
 **Device and Method for Distribution Aware Active Learning using Gaussian Mixture**.
