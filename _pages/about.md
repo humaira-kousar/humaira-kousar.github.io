@@ -37,42 +37,42 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 - **Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**<br>
   **Humaira Kousar**, HI Bhatti, J Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2024), Workshop on [Attributing Model Behavior at Scale](https://neurips.cc/virtual/2024/workshop/84704), 2024<br>
-  <a href="https://arxiv.org/pdf/2501.01118" class="btn btn--small">Pdf</a> <a href="/files/bibtex/kousar2024pruning.bib" class="btn btn--small">Bibtex</a>
+  <a href="https://arxiv.org/pdf/2501.01118" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/kousar2024pruning.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 - **PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**<br>
   **Humaira Kousar**, HI Bhatti, J Moon<br>
   [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
-  <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small">Bibtex</a> <a href="https://jmlr.org/tmlr/papers/" class="btn btn--small" style="background-color: #ffc107; color: #000 !important;">Featured Certification (Spotlight)</a>
+  <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small btn--glass">Bibtex</a> <a href="https://jmlr.org/tmlr/papers/" class="btn btn--small btn--glass-gold">Featured Certification (Spotlight)</a>
 
 - **Consistent Low-Rank Aggregation for Federated LoRA Fine-Tuning**<br>
   MM Rahimi, M Heidari, **Humaira Kousar**, D Seo, J Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)<br>
-  <a href="/files/bibtex/rahimi2026consistent.bib" class="btn btn--small">Bibtex</a>
+  <a href="/files/bibtex/rahimi2026consistent.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 - **Model-Agnostic Projection Optimization for Communication-Efficient Federated Learning**<br>
   MM Rahimi, **Humaira Kousar**, DJ Han, D Seo, J Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)<br>
-  <a href="/files/bibtex/rahimi2026modelagnostic.bib" class="btn btn--small">Bibtex</a>
+  <a href="/files/bibtex/rahimi2026modelagnostic.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 - **Ada-HiSS: Spectral-Sparse Model Merging in the Small-Room Regime**<br>
   HI Bhatti, **Humaira Kousar**, Jaekyun Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)<br>
-  <a href="/files/bibtex/bhatti2026adahiss.bib" class="btn btn--small">Bibtex</a>
+  <a href="/files/bibtex/bhatti2026adahiss.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 - **EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**<br>
   MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon<br>
   [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2024), 2024<br>
-  <a href="https://arxiv.org/pdf/2311.07485" class="btn btn--small">Pdf</a> <a href="/files/bibtex/rahimi2024evofed.bib" class="btn btn--small">Bibtex</a> <a href="https://github.com/mahi97/EvoFL" class="btn btn--small">Code</a>
+  <a href="https://arxiv.org/pdf/2311.07485" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/rahimi2024evofed.bib" class="btn btn--small btn--glass">Bibtex</a> <a href="https://github.com/mahi97/EvoFL" class="btn btn--small btn--glass">Code</a>
 
 - **Distribution Aware Active Learning via Gaussian Mixtures**<br>
   Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon<br>
   [International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2023), Workshop on [Pitfalls of limited data and computation for Trustworthy ML](https://iclr.cc/virtual/2023/workshop/12844), 2023<br>
-  <a href="https://openreview.net/pdf?id=YXnggA4iiD" class="btn btn--small">Pdf</a> <a href="/files/bibtex/park2023distribution.bib" class="btn btn--small">Bibtex</a>
+  <a href="https://openreview.net/pdf?id=YXnggA4iiD" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/park2023distribution.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 - **WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**<br>
   **Humaira Kousar**, M Atif, H Ali, MH Kundi<br>
   [International Conference on Green and Human Information Technology (ICGHIT)](https://ieeexplore.ieee.org/xpl/conhome/8859341/proceeding), IEEE, 2019<br>
-  <a href="/files/bibtex/kousar2019whegstr.bib" class="btn btn--small">Bibtex</a>
+  <a href="/files/bibtex/kousar2019whegstr.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 ## 📚 Patent {#patents}
 **Device and Method for Distribution Aware Active Learning using Gaussian Mixture**.
