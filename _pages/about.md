@@ -84,15 +84,23 @@ Center for Applied Research in Artificial Intelligence (CARAI),
 *Funded by Agency for Defense Development (ADD); (2021 – Present)*
 
 ## 📚 Academic Service {#academic-services}
-* Organizer -- IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
-* Reviewer -- AI4GOOD, International Conference on Learning Representations (ICML), 2026
-* Reviewer -- GlobalSouthML, International Conference on Learning Representations (ICML), 2026
-* Reviewer -- AdaptFM, International Conference on Learning Representations (ICML), 2026
-* Reviewer -- International Conference on Learning Representations (ICLR), 2026
-* Reviewer -- Conference on Artificial Intelligence (AAAI), 2026
-* Reviewer -- WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
-* Volunteer -- WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
-* Reviewer -- ATTRIB, Advances in Neural Information Processing Systems (NeurIPS), 2024
+
+**Organizer**
+* IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
+
+**Conference Reviewer**
+* International Conference on Learning Representations (ICLR), 2026
+* Conference on Artificial Intelligence (AAAI), 2026
+
+**Workshop Reviewer**
+* AI4GOOD, International Conference on Machine Learning (ICML), 2026
+* GlobalSouthML, International Conference on Machine Learning (ICML), 2026
+* AdaptFM, International Conference on Machine Learning (ICML), 2026
+* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
+* ATTRIB, Advances in Neural Information Processing Systems (NeurIPS), 2024
+
+**Volunteer**
+* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
 
 
 
