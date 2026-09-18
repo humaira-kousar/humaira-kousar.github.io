@@ -16,7 +16,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none !important;
   background-color: $primary-color;
   border: 0 !important;
   border-radius: $border-radius;
@@ -151,19 +151,17 @@
     font-size: $type-size-7;
   }
 
-  /* frosted glass effect */
+  /* white tab with a gray boundary */
 
   &--glass {
-    color: $primary-color !important;
-    background-color: rgba(255, 255, 255, 0.35);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(122, 130, 136, 0.35) !important;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    color: $text-color !important;
+    background-color: #fff;
+    border: 1px solid $light-gray !important;
+    box-shadow: none;
 
     &:hover {
-      color: mix(#000, $primary-color, 20%) !important;
-      background-color: rgba(255, 255, 255, 0.55);
+      color: $text-color !important;
+      background-color: $lighter-gray;
     }
   }
 

@@ -130,12 +130,12 @@ html[data-theme="dark"] {
 
   .btn--glass {
     color: #d8d8d8 !important;
-    background-color: rgba(255, 255, 255, 0.08);
-    border-color: rgba(255, 255, 255, 0.18) !important;
+    background-color: #2a2a2a;
+    border-color: #6a6a6a !important;
 
     &:hover {
       color: #fff !important;
-      background-color: rgba(255, 255, 255, 0.14);
+      background-color: #333;
     }
   }
 
