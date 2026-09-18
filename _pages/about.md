@@ -44,8 +44,17 @@ When I am not working on my dissertation, you can usually find me sharing my lif
   [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
   [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
-- **Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation**<br>
-  *(under review)*
+- **Consistent Low-Rank Aggregation for Federated LoRA Fine-Tuning**<br>
+  Mohammad Mahdi Rahimi, Mahdi Heidari, **Humaira Kousar**, Daewon Seo, Jaekyun Moon<br>
+  [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)
+
+- **Model-Agnostic Projection Optimization for Communication-Efficient Federated Learning**<br>
+  Mohammad Mahdi Rahimi, **Humaira Kousar**, Dong-Jun Han, Daewon Seo, Jaekyun Moon<br>
+  [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)
+
+- **Ada-HiSS: Spectral-Sparse Model Merging in the Small-Room Regime**<br>
+  Hasnain Irshad Bhatti, **Humaira Kousar**, Jaekyun Moon<br>
+  [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)
 
 - **EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**<br>
   MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon<br>
