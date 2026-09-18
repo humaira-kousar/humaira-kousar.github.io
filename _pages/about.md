@@ -89,10 +89,15 @@ Center for Applied Research in Artificial Intelligence (CARAI),
 * IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
 
 **Conference Reviewer**
+* International Conference on Learning Representations (ICLR), 2027
 * International Conference on Learning Representations (ICLR), 2026
 * Conference on Artificial Intelligence (AAAI), 2026
+* Advances in Neural Information Processing Systems (NeurIPS), 2026
+* European Chapter of the Association for Computational Linguistics (EACL), 2026
 
 **Workshop Reviewer**
+* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2026
+* GlobalSouthAI, Advances in Neural Information Processing Systems (NeurIPS), 2026
 * AI4GOOD, International Conference on Machine Learning (ICML), 2026
 * GlobalSouthML, International Conference on Machine Learning (ICML), 2026
 * AdaptFM, International Conference on Machine Learning (ICML), 2026
@@ -100,6 +105,7 @@ Center for Applied Research in Artificial Intelligence (CARAI),
 * ATTRIB, Advances in Neural Information Processing Systems (NeurIPS), 2024
 
 **Volunteer**
+* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2026
 * WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
 
 
