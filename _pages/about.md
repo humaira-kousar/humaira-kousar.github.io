@@ -45,17 +45,17 @@ When I am not working on my dissertation, you can usually find me sharing my lif
   <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small">Bibtex</a>
 
 - **Consistent Low-Rank Aggregation for Federated LoRA Fine-Tuning**<br>
-  Mohammad Mahdi Rahimi, Mahdi Heidari, **Humaira Kousar**, Daewon Seo, Jaekyun Moon<br>
+  MM Rahimi, M Heidari, **Humaira Kousar**, D Seo, J Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)<br>
   <a href="/files/bibtex/rahimi2026consistent.bib" class="btn btn--small">Bibtex</a>
 
 - **Model-Agnostic Projection Optimization for Communication-Efficient Federated Learning**<br>
-  Mohammad Mahdi Rahimi, **Humaira Kousar**, Dong-Jun Han, Daewon Seo, Jaekyun Moon<br>
+  MM Rahimi, **Humaira Kousar**, DJ Han, D Seo, J Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)<br>
   <a href="/files/bibtex/rahimi2026modelagnostic.bib" class="btn btn--small">Bibtex</a>
 
 - **Ada-HiSS: Spectral-Sparse Model Merging in the Small-Room Regime**<br>
-  Hasnain Irshad Bhatti, **Humaira Kousar**, Jaekyun Moon<br>
+  HI Bhatti, **Humaira Kousar**, Jaekyun Moon<br>
   [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2026), 2026 (under review)<br>
   <a href="/files/bibtex/bhatti2026adahiss.bib" class="btn btn--small">Bibtex</a>
 
@@ -71,7 +71,7 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 
 - **WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**<br>
   **Humaira Kousar**, M Atif, H Ali, MH Kundi<br>
-  2019 [International Conference on Green and Human Information Technology (ICGHIT)](https://ieeexplore.ieee.org/xpl/conhome/8859341/proceeding), IEEE, 2019<br>
+  [International Conference on Green and Human Information Technology (ICGHIT)](https://ieeexplore.ieee.org/xpl/conhome/8859341/proceeding), IEEE, 2019<br>
   <a href="/files/bibtex/kousar2019whegstr.bib" class="btn btn--small">Bibtex</a>
 
 ## 📚 Patent {#patents}
