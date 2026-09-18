@@ -62,7 +62,7 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 - **EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**<br>
   MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon<br>
   [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2024), 2024<br>
-  <a href="https://arxiv.org/pdf/2311.07485" class="btn btn--small">Pdf</a> <a href="/files/bibtex/rahimi2024evofed.bib" class="btn btn--small">Bibtex</a>
+  <a href="https://arxiv.org/pdf/2311.07485" class="btn btn--small">Pdf</a> <a href="/files/bibtex/rahimi2024evofed.bib" class="btn btn--small">Bibtex</a> <a href="https://github.com/mahi97/EvoFL" class="btn btn--small">Code</a>
 
 - **Distribution Aware Active Learning via Gaussian Mixtures**<br>
   Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon<br>
