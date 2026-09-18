@@ -4,6 +4,21 @@ main:
     # url: /cv/
     url: /files/Updated CV - Humaira.pdf
 
+  - title: "News"
+    url: /#news
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Projects"
+    url: /#projects
+
+  - title: "Patents"
+    url: /#patents
+
+  - title: "Academic Services"
+    url: /#academic-services
+
   # - title: "Portfolio"
   #   url: /portfolio/
   

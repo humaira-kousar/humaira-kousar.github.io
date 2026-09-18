@@ -20,7 +20,7 @@ Beyond the lab, I am passionate about community leadership and mentorship. I hav
 
 When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
 
-## 📰 News
+## 📰 News {#news}
 * **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", accepted to be presented in ICML 2026. 
 * **May 2026** -- Two papers accepted to ICML workshop 2026. 
 * **March 2026** -- Our Workshop, ["AI Modeling for Disappearing Knowledge (AIM4DK)"](https://aim4dk.vercel.app/), has been accepted in IJCAI-ECAI'26.
@@ -33,7 +33,7 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 * **Dec 2021** -- Successfully passed my Master’s Dissertation Defense!
 
 
-## 📚 Publications
+## 📚 Publications {#publications}
 - **Humaira Kousar**, HI Bhatti, J Moon, "<u>Pruning-based Data Selection and Network Fusion for Efficient Deep Learning</u>".
     Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024
 [Pdf](https://arxiv.org/pdf/2501.01118)
@@ -52,16 +52,16 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 
 - **Humaira Kousar**, M Atif, H Ali, MH Kundi. "<u>WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)</u>". *2019 International Conference on Green and Human Information Technology (ICGHIT). IEEE, 2019.*
 
-## 📚 Patent
+## 📚 Patent {#patents}
 **Device and Method for Distribution Aware Active Learning using Gaussian Mixture**.
 Application Number: KR 10-2024-0035374, Application Date: Mar 13, 2024
 
-## 📚Research Projects
+## 📚 Research Projects {#projects}
 **Active Learning Algorithms for Efficient Utilization of Unlabeled Defense Data**.
 Center for Applied Research in Artificial Intelligence (CARAI),
 *Funded by Agency for Defense Development (ADD); (2021 – Present)*
 
-## 📚 Accademic Service
+## 📚 Academic Service {#academic-services}
 * Organizer -- IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
 * Reviewer -- AI4GOOD, International Conference on Learning Representations (ICML), 2026
 * Reviewer -- GlobalSouthML, International Conference on Learning Representations (ICML), 2026
