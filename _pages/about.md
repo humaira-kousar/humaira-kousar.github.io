@@ -36,12 +36,12 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 ## 📚 Publications {#publications}
 - **Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**<br>
   **Humaira Kousar**, HI Bhatti, J Moon<br>
-  Neural Information Processing Systems (NeurIPS), Workshop on Attributing Model Behavior at Scale, 2024<br>
+  [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2024), Workshop on [Attributing Model Behavior at Scale](https://neurips.cc/virtual/2024/workshop/84704), 2024<br>
   [Pdf](https://arxiv.org/pdf/2501.01118)
 
 - **PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**<br>
   **Humaira Kousar**, HI Bhatti, J Moon<br>
-  Transactions on Machine Learning Research (TMLR), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
+  [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
   [Pdf](https://openreview.net/pdf?id=BvnxenZwqY)
 
 - **Communication-Efficient Federated Learning via Model-Agnostic Projection Adaptation**<br>
@@ -49,17 +49,17 @@ When I am not working on my dissertation, you can usually find me sharing my lif
 
 - **EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**<br>
   MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon<br>
-  Advances in Neural Information Processing Systems (NeurIPS), 2024<br>
+  [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2024), 2024<br>
   [Pdf](https://arxiv.org/pdf/2311.07485)
 
 - **Distribution Aware Active Learning via Gaussian Mixtures**<br>
   Y Park, DJ Han, J Park, W Choi, **Humaira Kousar**, J Moon<br>
-  International Conference on Learning Representations (ICLR), Workshop on Pitfalls of limited data and computation for Trustworthy ML, 2023<br>
+  [International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2023), Workshop on [Pitfalls of limited data and computation for Trustworthy ML](https://iclr.cc/virtual/2023/workshop/12844), 2023<br>
   [Pdf](https://openreview.net/pdf?id=YXnggA4iiD)
 
 - **WHEGSTR: A Multiterrain Robot with C-Shaped Whegs, Implementation of Error Minimization Technique and using Artificial Neural Network (ANN)**<br>
   **Humaira Kousar**, M Atif, H Ali, MH Kundi<br>
-  2019 International Conference on Green and Human Information Technology (ICGHIT), IEEE, 2019
+  2019 [International Conference on Green and Human Information Technology (ICGHIT)](https://ieeexplore.ieee.org/xpl/conhome/8859341/proceeding), IEEE, 2019
 
 ## 📚 Patent {#patents}
 **Device and Method for Distribution Aware Active Learning using Gaussian Mixture**.
