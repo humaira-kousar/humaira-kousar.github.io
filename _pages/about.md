@@ -10,15 +10,16 @@ redirect_from:
 
 
 
-<img src="/images/Humaira2.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
- 
-I am a Ph.D. candidate in [Moon Lab](https://moonlab.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), South Korea. 
-Advised by Prof. Jaekyun Moon , my research bridges Active Learning and Distributed Machine Learning.
-I am also interested in assisting others on their path in the world of Machine Learning and academia.
+I am a Ph.D. candidate in [Moon Lab](https://moonlab.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), South Korea, advised by Prof. Jaekyun Moon.
+My research focuses on **making deep learning efficient in data, compute, and communication**. I work on:
 
-Beyond the lab, I am passionate about community leadership and mentorship. I have served as the Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor at universities. 
+* **Data-efficient learning:** active learning and data selection. For example, [PruneFuse](https://openreview.net/pdf?id=BvnxenZwqY) (TMLR'26 Featured Certification, ICML'26) selects training data efficiently through weight pruning and network fusion.
+* **Communication-efficient federated learning:** evolutionary strategies ([EvoFed](https://arxiv.org/pdf/2311.07485), NeurIPS'23), model-agnostic projection optimization, and consistent low-rank aggregation for federated LoRA fine-tuning.
+* **Model merging:** spectral-sparse merging of specialized models (Ada-HiSS).
 
-When I am not working on my dissertation, you can usually find me sharing my life experiences, hitting the slopes to snowboard, or practicing new languages.
+I am a people person at heart and love building community around research. I co-organize the [AIM4DK workshop](https://aim4dk.vercel.app/) at IJCAI-ECAI'26, volunteer and review for Women in Machine Learning (WiML) at NeurIPS, and have served as Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. I am always happy to chat with students finding their way into Machine Learning and academia, so feel free to reach out!
+
+Outside the lab, you'll find me snowboarding, picking up new languages, or swapping life stories over coffee.
 
 ## 📰 News {#news}
 * **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", accepted to be presented in ICML 2026. 
