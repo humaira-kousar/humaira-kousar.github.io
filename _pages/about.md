@@ -10,12 +10,9 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate in [Moon Lab](https://moonlab.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), South Korea, advised by Prof. Jaekyun Moon.
-My research focuses on **making deep learning efficient in data, compute, and communication**. I work on:
+I am a Ph.D. candidate in [Moon Lab](https://moonlab.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), South Korea, advised by Prof. Jaekyun Moon. My research focuses on making deep learning efficient in data, compute, and communication.
 
-* **Data-efficient learning:** active learning and data selection. For example, [PruneFuse](https://openreview.net/pdf?id=BvnxenZwqY) (TMLR'26 Featured Certification, ICML'26) selects training data efficiently through weight pruning and network fusion.
-* **Communication-efficient federated learning:** evolutionary strategies ([EvoFed](https://arxiv.org/pdf/2311.07485), NeurIPS'23), model-agnostic projection optimization, and consistent low-rank aggregation for federated LoRA fine-tuning.
-* **Model merging:** spectral-sparse merging of specialized models (Ada-HiSS).
+A central thread of my work is data-efficient learning through active learning and data selection. In [PruneFuse](https://openreview.net/pdf?id=BvnxenZwqY) (TMLR'26 Featured Certification, ICML'26), we select training data efficiently through weight pruning and network fusion. I also work on communication-efficient federated learning, from evolutionary strategies in [EvoFed](https://arxiv.org/pdf/2311.07485) (NeurIPS'23) to model-agnostic projection optimization and consistent low-rank aggregation for federated LoRA fine-tuning. More recently, I have been exploring model merging, including spectral-sparse merging of specialized models (Ada-HiSS).
 
 I am a people person at heart and love building community around research. I co-organize the [AIM4DK workshop](https://aim4dk.vercel.app/) at IJCAI-ECAI'26, volunteer and review for Women in Machine Learning (WiML) at NeurIPS, and have served as Vice President of the Pakistan Student Association (PSA) at KAIST and as an International Student Mentor. I am always happy to chat with students finding their way into Machine Learning and academia, so feel free to reach out!
 
