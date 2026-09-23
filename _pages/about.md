@@ -19,6 +19,7 @@ I am a people person at heart and love building community around research. I co-
 Outside the lab, you'll find me snowboarding, picking up new languages, or swapping life stories over coffee.
 
 ## 📰 News {#news}
+* **July 2026** -- Presented "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion" at ICML 2026 in Seoul, South Korea.
 * **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", accepted to be presented in ICML 2026. 
 * **May 2026** -- Two papers accepted to ICML workshop 2026. 
 * **March 2026** -- Our Workshop, ["AI Modeling for Disappearing Knowledge (AIM4DK)"](https://aim4dk.vercel.app/), has been accepted in IJCAI-ECAI'26.
