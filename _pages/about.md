@@ -62,7 +62,7 @@ Outside the lab, you'll find me snowboarding, picking up new languages, or swapp
 
 - **EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**<br>
   MM Rahimi, HI Bhatti, Y Park, **Humaira Kousar**, J Moon<br>
-  [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2024), 2024<br>
+  [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2023), 2023<br>
   <a href="https://arxiv.org/pdf/2311.07485" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/rahimi2024evofed.bib" class="btn btn--small btn--glass">Bibtex</a> <a href="https://github.com/mahi97/EvoFL" class="btn btn--small btn--glass">Code</a>
 
 - **Distribution Aware Active Learning via Gaussian Mixtures**<br>
