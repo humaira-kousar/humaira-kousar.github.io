@@ -20,11 +20,10 @@ Outside the lab, you'll find me snowboarding, picking up new languages, or swapp
 
 ## 📰 News {#news}
 * **July 2026** -- Presented "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion" at ICML 2026 in Seoul, South Korea.
-* **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", accepted to be presented in ICML 2026. 
+* **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", received a Featured Certification (Spotlight) in TMLR, accepted to be presented in ICML 2026.
 * **May 2026** -- Two papers accepted to ICML workshop 2026. 
 * **March 2026** -- Our Workshop, ["AI Modeling for Disappearing Knowledge (AIM4DK)"](https://aim4dk.vercel.app/), has been accepted in IJCAI-ECAI'26.
 * **Feb 2026** -- Successfully passed my Ph.D. Dissertation Proposal Defense!
-* **Feb 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", has been featured in TMLR'26.
 * **Oct 2024** -- Our paper, "Pruning-based Data Selection and Network Fusion for Efficient Deep Learning", was accepted to Attributing Model Behavior at Scale Workshop at NeurIPS'24.
 * **Oct 2023** -- Our paper, "EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning", was accepted to NeurIPS'23.
 * **Feb 2023:** -- Our paper, "Distribution Aware Active Learning via Gaussian Mixtures", was accepted to Pitfalls of limited data and computation for Trustworthy ML Workshop at ICLR'23.
