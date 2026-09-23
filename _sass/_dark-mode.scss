@@ -2,11 +2,21 @@
    DARK MODE
    ========================================================================== */
 
+// Lay the masthead out as a row so the toggle sits beside the nav
+// (and its mobile menu button) instead of floating on top of it.
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.masthead__menu {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
 .theme-toggle-btn {
-  position: absolute;
-  top: 1em;
-  right: 1em;
-  z-index: 30;
+  flex: 0 0 auto;
+  margin-left: 0.75em;
   width: 2.25em;
   height: 2.25em;
   padding: 0;
