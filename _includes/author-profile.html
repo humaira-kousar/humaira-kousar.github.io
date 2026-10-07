@@ -143,6 +143,9 @@
                   <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google
                               Scholar</a></li>
                   {% endif %}
+                  {% if author.openreview %}
+                  <li><a href="{{ author.openreview }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> OpenReview</a></li>
+                  {% endif %}
                   {% if author.pubmed %}
                   <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
                   {% endif %}

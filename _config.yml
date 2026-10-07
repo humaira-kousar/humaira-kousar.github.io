@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "Humaira2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,6 +73,7 @@ social:
     - "https://www.linkedin.com/in/humaira-kousar-32b775136/"
     - "https://github.com/humaira-kousar"
     - "https://scholar.google.com/citations?user=m0X7B_IAAAAJ"
+    - "https://openreview.net/profile?id=~Humaira_Kousar1"
 
 
 # Analytics
@@ -91,6 +92,7 @@ author:
   employer         : "KAIST"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=m0X7B_IAAAAJ&hl=en"
+  openreview       : "https://openreview.net/profile?id=~Humaira_Kousar1"
   email            : "humairakousar32@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

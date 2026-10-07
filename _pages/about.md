@@ -26,11 +26,17 @@ Outside the lab, you'll find me snowboarding, picking up new languages, or swapp
 * **May 2026** -- Two papers accepted to ICML workshop 2026. 
 * **March 2026** -- Our Workshop, ["AI Modeling for Disappearing Knowledge (AIM4DK)"](https://aim4dk.vercel.app/), has been accepted in IJCAI-ECAI'26.
 * **Feb 2026** -- Successfully passed my Ph.D. Dissertation Proposal Defense!
+
+<details class="news-more" markdown="1">
+<summary><span class="news-more__open">Show more</span><span class="news-more__close">Show less</span></summary>
+
 * **Oct 2024** -- Our paper, "Pruning-based Data Selection and Network Fusion for Efficient Deep Learning", was accepted to Attributing Model Behavior at Scale Workshop at NeurIPS'24.
 * **Oct 2023** -- Our paper, "EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning", was accepted to NeurIPS'23.
-* **Feb 2023:** -- Our paper, "Distribution Aware Active Learning via Gaussian Mixtures", was accepted to Pitfalls of limited data and computation for Trustworthy ML Workshop at ICLR'23.
+* **Feb 2023** -- Our paper, "Distribution Aware Active Learning via Gaussian Mixtures", was accepted to Pitfalls of limited data and computation for Trustworthy ML Workshop at ICLR'23.
 * **March 2022** -- Joined MoonLab @ KAIST as a Ph.D. Student.
 * **Dec 2021** -- Successfully passed my Master’s Dissertation Defense!
+
+</details>
 
 
 ## 🏆 Awards & Honors {#awards}
@@ -95,38 +101,10 @@ Application Number: KR 10-2024-0035374, Application Date: Mar 13, 2024
 ## 📚 Research Projects {#projects}
 **Active Learning Algorithms for Efficient Utilization of Unlabeled Defense Data**.
 Center for Applied Research in Artificial Intelligence (CARAI),
-*Funded by Agency for Defense Development (ADD); (2021 – Present)*
+*Funded by Agency for Defense Development (ADD); (2021 – 2026)*
 
 ## 📚 Academic Service {#academic-services}
-
-**Organizer**
-* IJCAI Workshop, [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/). Workshop at IJCAI-ECAI’26.
-
-**Conference Reviewer**
-* International Conference on Learning Representations (ICLR), 2027
-* International Conference on Learning Representations (ICLR), 2026
-* Conference on Artificial Intelligence (AAAI), 2026
-* Advances in Neural Information Processing Systems (NeurIPS), 2026
-* European Chapter of the Association for Computational Linguistics (EACL), 2026
-
-**Workshop Reviewer**
-* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2026
-* GlobalSouthAI, Advances in Neural Information Processing Systems (NeurIPS), 2026
-* AI4GOOD, International Conference on Machine Learning (ICML), 2026
-* GlobalSouthML, International Conference on Machine Learning (ICML), 2026
-* AdaptFM, International Conference on Machine Learning (ICML), 2026
-* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
-* ATTRIB, Advances in Neural Information Processing Systems (NeurIPS), 2024
-
-**Volunteer**
-* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2026
-* WiML, Advances in Neural Information Processing Systems (NeurIPS), 2025
-
-
-
-
-
-
-
-
-
+* **Organizer:** [AIM4DK: AI Modeling for Disappearing Knowledge](https://aim4dk.vercel.app/), workshop at IJCAI-ECAI'26
+* **Conference Reviewer:** ICLR'26–27, NeurIPS'26, AAAI'26, EACL'26
+* **Workshop Reviewer:** NeurIPS (WiML'25–26, GlobalSouthAI'26, ATTRIB'24), ICML (AI4GOOD'26, GlobalSouthML'26, AdaptFM'26)
+* **Volunteer:** NeurIPS WiML'25–26
