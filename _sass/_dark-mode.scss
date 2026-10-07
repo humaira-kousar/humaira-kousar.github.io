@@ -149,6 +149,12 @@ html[data-theme="dark"] {
     }
   }
 
+  .venue-tag {
+    color: #7fd1e0;
+    background-color: rgba(127, 209, 224, 0.12);
+    border-color: rgba(127, 209, 224, 0.35);
+  }
+
   .btn--glass-gold {
     color: #ffd54f !important;
     background-color: rgba(255, 213, 79, 0.12);
