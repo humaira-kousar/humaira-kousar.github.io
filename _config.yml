@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Humaira's Homepage"
-#title_separator          : #"-"
-name                     : &name "name"
-description              : &description "personal description"
+title                    : "Humaira Kousar"
+title_separator          : "|"
+name                     : &name "Humaira Kousar"
+description              : &description "Humaira Kousar, Ph.D. researcher at KAIST working on efficient deep learning: data selection, active learning, federated learning, and model merging."
 url                      : https://humaira-kousar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "humaira-kousar/humaira-kousar.github.io" 
@@ -70,11 +70,14 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/humaira-kousar-32b775136/"
+    - "https://github.com/humaira-kousar"
+    - "https://scholar.google.com/citations?user=m0X7B_IAAAAJ"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 

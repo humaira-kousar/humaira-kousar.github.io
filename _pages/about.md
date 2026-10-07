@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Humaira Kousar is a Ph.D. researcher at KAIST working on efficient deep learning: data selection, active learning, federated learning, and model merging."
 author_profile: true
 redirect_from: 
   - /about/
