@@ -19,6 +19,7 @@ I am a people person at heart and love building community around research. I co-
 Outside the lab, you'll find me snowboarding, picking up new languages, or swapping life stories over coffee.
 
 ## 📰 News {#news}
+* **Sep 2026** -- Our new preprint, ["Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning"](https://arxiv.org/abs/2609.37915), is now available on arXiv.
 * **July 2026** -- Our paper, "Router-Guided Data Selection for Efficient Deep Learning" (ICML 2026 workshop), received the Best Student Paper Award!
 * **July 2026** -- Presented "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion" at ICML 2026 in Seoul, South Korea.
 * **May 2026** -- Our paper, "PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion", received a Featured Certification (Spotlight) in TMLR, accepted to be presented in ICML 2026.
@@ -42,6 +43,11 @@ Outside the lab, you'll find me snowboarding, picking up new languages, or swapp
   **Humaira Kousar**, HI Bhatti, J Moon<br>
   [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
   <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small btn--glass">Bibtex</a> <a href="https://jmlr.org/tmlr/papers/" class="btn btn--small btn--glass-gold">Featured Certification (Spotlight)</a>
+
+- **Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning**<br>
+  MI Hossain, **Humaira Kousar**, IC Tourni<br>
+  arXiv preprint, 2026 (under review)<br>
+  <a href="https://arxiv.org/pdf/2609.37915" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/hossain2026overcoming.bib" class="btn btn--small btn--glass">Bibtex</a>
 
 - **Consistent Low-Rank Aggregation for Federated LoRA Fine-Tuning**<br>
   MM Rahimi, M Heidari, **Humaira Kousar**, D Seo, J Moon<br>
