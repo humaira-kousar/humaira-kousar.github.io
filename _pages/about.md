@@ -45,12 +45,12 @@ Outside the lab, you'll find me snowboarding, picking up new languages, or swapp
 
 - <span class="venue-tag">TMLR'26</span>**PruneFuse: Efficient Data Selection via Weight Pruning and Network Fusion**<br>
   **Humaira Kousar**, HI Bhatti, J Moon<br>
-  [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026 (<span style="color: #28a745;">[Featured Certification](https://jmlr.org/tmlr/papers/)</span>)<br>
+  [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/), 2026<br>
   <a href="https://openreview.net/pdf?id=BvnxenZwqY" class="btn btn--small btn--glass">Pdf</a> <a href="/files/bibtex/kousar2026prunefuse.bib" class="btn btn--small btn--glass">Bibtex</a> <a href="https://jmlr.org/tmlr/papers/" class="btn btn--small btn--glass-gold">Featured Certification (Spotlight)</a>
 
 - <span class="venue-tag">ICML'26 WS</span>**Router-Guided Data Selection for Efficient Deep Learning**<br>
   **Humaira Kousar**, HI Bhatti, MM Rahimi, J Moon<br>
-  [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2026), Workshop, 2026 (<span style="color: #28a745;">Best Student Paper Award</span>)<br>
+  [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2026), Workshop, 2026<br>
   <a href="/files/bibtex/kousar2026router.bib" class="btn btn--small btn--glass">Bibtex</a> <span class="btn btn--small btn--glass-gold">Best Student Paper Award</span>
 
 - <span class="venue-tag">Under Review</span>**Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning**<br>
